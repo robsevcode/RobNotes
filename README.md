@@ -2,7 +2,8 @@
 A service that lets use log, rate and save any media wanted by the user. 
 
 # Technologies used
-TBD
+* Flutter for the Frontend
+* Drift (SQLite wrapper)
 
 # Latest features
 TBD
@@ -20,10 +21,15 @@ First iteration features:
 * Have an easy way to "revive" from finished to Backlog or in progress (New season, new DLC, etc)
 
 Second iteration features: 
+* Add filters and search options
 * A way to import your media from an external app (Letterbox, steamDB, stream services, etc)
 * Have a "Suggestions" for recommended media
 * Add a social media that let's you let know others what media you just saw (Or hide it)
 * Add a "Notify" option to get news from new seasons, books, games, etc
+
+Third iteration features: 
+* Cleaner UI
+* Cloud availability
 
 # How to run
 TBD
